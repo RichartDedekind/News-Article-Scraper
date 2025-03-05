@@ -1,0 +1,24 @@
+# Add your proxies here, one per line
+# Format: protocol://username:password@host:port
+
+# HTTP proxies examples:
+http://user1:pass1@proxy1.example.com:8080
+http://user2:pass2@proxy2.example.com:8080
+
+# HTTPS proxies examples:
+https://user3:pass3@proxy3.example.com:8443
+https://user4:pass4@proxy4.example.com:8443
+
+# SOCKS5 proxies examples:
+socks5://user5:pass5@proxy5.example.com:1080
+socks5://user6:pass6@proxy6.example.com:1080
+
+# SmartProxy examples:
+http://user:pass@gate.smartproxy.com:7000
+http://user:pass@gate.smartproxy.com:7001
+
+# You can also add proxies without authentication if they don't require it:
+# http://open-proxy.example.com:8080
+# socks5://open-proxy.example.com:1080
+
+# Lines starting with # are comments and will be ignored
